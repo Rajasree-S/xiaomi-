@@ -1,0 +1,36 @@
+.text{
+        position:absolute;
+         z-index:1;
+         font-size: 1.2em;
+         margin-top: -420px;
+         padding:80px;
+         color:white;
+}
+.btn{
+    color:black;
+    background-color: white;;
+ }
+
+h2{
+    font-size: 40px;
+    font-weight: 400px;
+}
+h3{
+    font-size: 30px;
+    font-weight: normal;
+}
+del{
+    font-size:70%;
+    font-weight: 400;
+    opacity: .5;
+}
+.flex{
+    display: flex;
+    flex:1;
+    flex-direction: row;
+    width:10px;
+}
+.grid {
+    grid-auto-columns: 10%;
+
+}
